@@ -1,10 +1,11 @@
 ## Overview
-The Motion Detector is a simple tool that allows you to detect motion in a video file. The tool uses a set of pre-defined coordinates to track motion within a specified region of interest (ROI) in the video. The output of the tool is a video file where the frames containing motion are marked with a bounding box.
+This park-spot monitoring lets you detect whether a parking spot is free or not.
+First, select the Video you want to monitor 
+Second, select all the parking slots (Any amount, any size)
+Third, watch the video with the monitoring of the AI 
 
 ## Requirements
-Python 3.6 or later
-OpenCV
-PyYAML
+see requirements.txt
 
 ## Installation
 Clone this repository to your local machine
@@ -16,6 +17,6 @@ python detection.py
 
 - Program flow
     1. Select the video file that you want to process.
-    2. Select the parking slots you want to monitor.
+    2. Select the parking slots you want to monitor (any size, any amount).
     3. The tool will then analyze the video and generate a new video file with the motion detection bounding boxes.
 

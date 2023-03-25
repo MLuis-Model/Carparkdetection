@@ -12,7 +12,7 @@ Install the dependencies using pip install -r requirements.txt
 
 ## Usage
 - Run the following command in the terminal:
-python main.py
+python detection.py
 
 - Program flow
     1. Select the video file that you want to process.

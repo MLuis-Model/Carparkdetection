@@ -70,5 +70,5 @@ source <virtualenv_name>/bin/activate
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Demo](https://github.com/MLuis-Model/FreeParkSpotDetection/blob/de9036dadb2f43b72223d1908417a1adeb0b87c7/Vehicle%20Detection/Screenshots/outsidenagarrooffice.png)
 

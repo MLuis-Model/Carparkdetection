@@ -53,11 +53,12 @@ source <virtualenv_name>/bin/activate
   python -r requirements.txt
 ```
 
-#### Start the server
+### Start the server
 
 ```bash
   flask --app main.py run
 ```
+**Server starts at** `http://localhost:5000`
 
 
 ## Tech Stack
